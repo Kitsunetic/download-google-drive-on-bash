@@ -5,7 +5,9 @@ Download large file from Google Drive on bash
 # Usage
 
 ```bash
-download.sh {file id} {file name}
+wget https://raw.githubusercontent.com/Kitsunetic/download-google-drive-on-bash/master/download.sh
+chmod +x download.sh
+./download.sh {file id} {file name}
 ```
 
 # Referenced Articles
